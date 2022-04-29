@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Jest RPG game to test functionality and make a user fun experience",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsaaad/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "Game",
+    "User",
+    "Experience"
+  ],
+  "author": "gsaaad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsaaad/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/gsaaad/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
